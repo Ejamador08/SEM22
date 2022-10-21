@@ -1,0 +1,2 @@
+Proyecto aún en desarrollo, este permitirá llevar
+todos los registro que llevan en físico las escuelas.
